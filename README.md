@@ -1,4 +1,4 @@
-# calculator3d
+# Calculator 3d
 
 Neumorphic Calculator
 
